@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="team_a_text">Team A</string>
+    <string name="team_a_score_text">0</string>
+    <string name="_3_points_text">+3 points</string>
+    <string name="_2_points_text">+2 points</string>
+    <string name="_1_points_text">FREE THROW</string>
+    <string name="reset_button_text">RESET</string>
+    <string name="basketball_logo_description">Basketball Logo</string>
+</resources>
